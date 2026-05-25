@@ -49,4 +49,8 @@ Average Interest Rate: 12.02%
 
 Total Loan Payment: 482.70M
 
+## 📂 Excel Data Access
+Large datasets are stored externally due to GitHub size limits.  
+[Download Excel Dashboard from Google Drive](https://docs.google.com/spreadsheets/d/1FmKQq1P_oOSnox7ITwH6Wx3N0L48Rjvb/edit?usp=drive_link&ouid=101031518218197392991&rtpof=true&sd=true)
+
    

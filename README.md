@@ -37,5 +37,16 @@ The project covers the following tasks:
 5. **Home Ownership vs Last Payment Date Stats**  
    Correlation between home ownership type and repayment timelines.
 
+## Key Findings:
+
+Total Loan Accounts: 39,717
+
+Total Loan Amount: 445.60M
+
+Loan Tenure: 36 & 60 months
+
+Average Interest Rate: 12.02%
+
+Total Loan Payment: 482.70M
 
    
